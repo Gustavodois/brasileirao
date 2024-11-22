@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.fanjos1\\source\\repos\\calculo_aproveitamento_times_revisao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60A899B-23EC-4D6A-981C-0A3E47069849}|calculo_aproveitamento_times_revisao\\calculo_aproveitamento_times_revisao.csproj|c:\\users\\gustavo.fanjos1\\source\\repos\\calculo_aproveitamento_times_revisao\\calculo_aproveitamento_times_revisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60A899B-23EC-4D6A-981C-0A3E47069849}|calculo_aproveitamento_times_revisao\\calculo_aproveitamento_times_revisao.csproj|solutionrelative:calculo_aproveitamento_times_revisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.fanjos1\\source\\repos\\calculo_aproveitamento_times_revisao\\calculo_aproveitamento_times_revisao\\Program.cs",
+              "RelativeDocumentMoniker": "calculo_aproveitamento_times_revisao\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.fanjos1\\source\\repos\\calculo_aproveitamento_times_revisao\\calculo_aproveitamento_times_revisao\\Program.cs",
+              "RelativeToolTip": "calculo_aproveitamento_times_revisao\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:18:03.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
